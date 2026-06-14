@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Blue Heron 1",
+    "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/85fba31a-d806-4b7c-a01c-d732cbfc6bcf/Blue+Heron+1+with+watermark.jpg?format=750w",
+    "description": "",
+	"category": "Birds",
+	"species": "Blue Heron",
+	"price": 20.00,
+    "productUrl": "#"
+  },
+  {
+    "id": 2,
+    "title": "Blue Heron 2",
+    "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/172ec3c7-d173-4648-8b08-4f8a0ca525f8/Blue+Heron+2+with+watermarks.jpg?format=750w",
+    "description": "",
+	"category": "Birds",
+	"species": "Blue Heron",
+	"price": 20.00,
+    "productUrl": "#"
+  },
+  {
+    "id": 3,
+    "title": "Blue Heron 3",
+    "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/0a55702a-2f7a-4830-a4e8-ffb2e379d3d0/Blue+heron+3+with+watermark.jpg?format=1000w",
+    "description": "",
+	"category": "Birds",
+	"species": "Blue Heron",
+	"price": 20.00,
+    "productUrl": "#"
+  },
+  {
+  "id": 4,
+  "title": "Eastern Bluebird 1",
+  "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/1d354358-3215-47b9-a399-2267fbdc7b32/eastern+bluebird+collage+with+watermark.jpg?format=750w",
+  "description": "",
+  "category": "Birds",
+  "species": "Eastern Bluebird",
+  "price": 20.00,
+  "productUrl": "#"
+  },
+  {
+  "id": 5,
+  "title": "Squirrel 11",
+  "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/ab141365-7baf-4ebe-9bd4-8b6fcd12c933/squirrel++11+with+watermarks.JPG?format=1000w",
+  "description": "",
+  "category": "Rodents",
+  "species": "Squirrel",
+  "price": 25.00,
+  "productUrl": "#"
+  }
+]
