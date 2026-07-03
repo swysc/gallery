@@ -7,7 +7,7 @@
 	"category": "Birds",
 	"species": "Blue Heron",
 	"price": 8.00,
-    "productUrl": "#"
+    "productUrl": "https://swycs.llc/products/p/blueheron1"
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
 	"category": "Birds",
 	"species": "Blue Heron",
 	"price": 8.00,
-    "productUrl": "#"
+    "productUrl": "https://swycs.llc/products/p/blueheron2"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
 	"category": "Birds",
 	"species": "Blue Heron",
 	"price": 8.00,
-    "productUrl": "#"
+    "productUrl": "https://swycs.llc/products/p/blueheron3"
   },
   {
    "id": 4,
@@ -37,7 +37,7 @@
    "category": "Birds",
    "species": "Eastern Bluebird",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/easternbluebird1"
   },
   {
    "id": 5,
@@ -47,7 +47,7 @@
    "category": "Rodents",
    "species": "Squirrel",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/squirrel11"
   },
   {
    "id": 6,
@@ -57,7 +57,7 @@
    "category": "Birds",
    "species": "Blue Heron",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/blueheron4"
   },
   {
    "id": 7,
@@ -67,7 +67,7 @@
    "category": "Birds",
    "species": "Blue Heron",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/blueheron5"
   },
   {
    "id": 8,
@@ -77,7 +77,7 @@
    "category": "Birds",
    "species": "Blue Heron",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/blueheron6"
   },
   {
    "id": 9,
@@ -87,7 +87,7 @@
    "category": "Birds",
    "species": "Blue Heron",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/blueheron7"
   },
   {
    "id": 10,
@@ -97,7 +97,7 @@
    "category": "Birds",
    "species": "Blue Heron",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/blueheron8"
   },
   {
    "id": 11,
@@ -107,7 +107,7 @@
    "category": "Birds",
    "species": "Blue Heron",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/blueheron9"
   }, 
   {
    "id": 12,
@@ -117,7 +117,7 @@
    "category": "Birds",
    "species": "Blue Heron",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/blueheron10"
   },
   {
    "id": 13,
@@ -127,7 +127,7 @@
    "category": "Birds",
    "species": "Blue Heron",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/blueheron11"
   },
   {
    "id": 14,
@@ -137,7 +137,7 @@
    "category": "Birds",
    "species": "Blue Heron",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/blueheron12"
   },
   {
    "id": 15,
@@ -147,7 +147,7 @@
    "category": "Birds",
    "species": "Blue Heron",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/blueheron13"
   },
   {
    "id": 16,
@@ -157,7 +157,7 @@
    "category": "Birds",
    "species": "Blue Heron",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/blueheron14"
   },
   {
    "id": 17,
@@ -167,7 +167,7 @@
    "category": "Birds",
    "species": "Blue Jay",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/bluejay1"
   },
   {
    "id": 18,
@@ -177,7 +177,7 @@
    "category": "Birds",
    "species": "Blue Jay",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/bluejay2"
   },
   {
    "id": 19,
@@ -187,7 +187,7 @@
    "category": "Birds",
    "species": "Blue Jay",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/bluejay8"
   },
   {
    "id": 20,
@@ -197,7 +197,7 @@
    "category": "Birds",
    "species": "Blue Jay",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/bluejay129"
   },
   {
    "id": 21,
@@ -207,7 +207,7 @@
    "category": "Birds",
    "species": "Cardinal",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/cardinal2a"
   },
   {
    "id": 22,
@@ -217,7 +217,7 @@
    "category": "Birds",
    "species": "Cardinal",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/cardinal2b"
   },
   {
    "id": 23,
@@ -227,7 +227,7 @@
    "category": "Birds",
    "species": "Cardinal",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/cardinal95"
   },
   {
    "id": 24,
@@ -237,7 +237,7 @@
    "category": "Birds",
    "species": "Common Grackle",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/commongrackle2"
   },
   {
    "id": 25,
@@ -247,7 +247,7 @@
    "category": "Birds",
    "species": "Eastern Bluebird",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/easternbluebird8"
   },
   {
    "id": 26,
@@ -257,7 +257,7 @@
    "category": "Birds",
    "species": "Eastern Bluebird",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/easternbluebird11"
   },
   {
    "id": 27,
@@ -267,7 +267,7 @@
    "category": "Birds",
    "species": "Eastern Bluebird",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/easternbluebird12"
   },
   {
    "id": 28,
@@ -277,7 +277,7 @@
    "category": "Birds",
    "species": "Eastern Bluebird",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/easternbluebird14"
   },
   {
    "id": 29,
@@ -287,7 +287,7 @@
    "category": "Birds",
    "species": "Eastern Bluebird",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/easternbluebird15"
   },
   {
    "id": 30,
@@ -297,7 +297,7 @@
    "category": "Birds",
    "species": "Eastern Bluebird",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/easternbluebird16"
   },
   {
    "id": 31,
@@ -307,17 +307,17 @@
    "category": "Birds",
    "species": "Eastern Bluebird",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/easternbluebird17"
   },
   {
    "id": 32,
    "title": "Eastern Bluebird Shadow 1",
-   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/fde05451-96d3-453b-9265-b07220cf0b9f/eastern+bluebird+17+with+watermark.jpg?format=1000w",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/c688a815-def5-4399-b4bb-63003c107225/eastern+bluebird+shadow+withwatermark.jpg?format=1000w",
    "description": "",
    "category": "Birds",
    "species": "Eastern Bluebird",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/easternbluebirdshadow1"
   },
   {
    "id": 33,
@@ -327,7 +327,7 @@
    "category": "Birds",
    "species": "Golden Finch",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/goldenfinch1"
   },
   {
    "id": 34,
@@ -337,7 +337,7 @@
    "category": "Birds",
    "species": "Redtail Hawk",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/hawk53"
   },
   {
    "id": 35,
@@ -347,7 +347,7 @@
    "category": "Birds",
    "species": "Crow",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/crow1"
   },
   {
    "id": 36,
@@ -357,7 +357,7 @@
    "category": "Birds",
    "species": "Tufted Titmouse",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/tuftedtitmouse1"
   },
   {
    "id": 37,
@@ -367,17 +367,17 @@
    "category": "Birds",
    "species": "Robin",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/robin1"
   },
   {
    "id": 38,
    "title": "Tufted Titmouse 2",
-   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/0bde73d6-e1fc-48be-a33e-23ffc327ac18/Robin+Flying+paper+cuts+with+watermark.jpg?format=1000w",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/e062373b-6cf5-4e2c-8dca-c9671d50d9b7/Tufted+Titmouse+withwatermark.jpg?format=1000w",
    "description": "",
    "category": "Birds",
    "species": "Tufted Titmouse",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/tuftedtitmouse2"
   },
   {
    "id": 39,
@@ -387,7 +387,7 @@
    "category": "Birds",
    "species": "Pileated Woodpecker",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/woodpecker1"
   },
   {
    "id": 40,
@@ -397,7 +397,7 @@
    "category": "Birds",
    "species": "Yellow Rumped Warbler",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/yellowrumpedwarbler30"
   },
   {
    "id": 41,
@@ -407,7 +407,7 @@
    "category": "Birds",
    "species": "Crane Fly",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/cranefly30
   },
   {
    "id": 42,
@@ -417,7 +417,7 @@
    "category": "Worms, Catepillars & more",
    "species": "Earth Worm",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/earthworm1"
   },
   {
    "id": 43,
@@ -427,7 +427,7 @@
    "category": "Worms, Catepillars & more",
    "species": "Earth Worm",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/earthworm2"
   },
   {
    "id": 44,
@@ -437,7 +437,7 @@
    "category": "Insects, Bugs & more",
    "species": "Honey Bee",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/honeybee6"
   },
   {
    "id": 45,
@@ -447,7 +447,7 @@
    "category": "Insects, Bugs & more",
    "species": "Katydid",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/katydid1"
   },
   {
    "id": 46,
@@ -457,7 +457,7 @@
    "category": "Insects, Bugs & more",
    "species": "Katydid",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/katydid2"
   },
   {
    "id": 47,
@@ -467,7 +467,7 @@
    "category": "Reptiles&Amphibians",
    "species": "Frog",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/frog3"
   },
   {
    "id": 48,
@@ -477,7 +477,7 @@
    "category": "Reptiles&Amphibians",
    "species": "Frog",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/frog4"
   },
   {
    "id": 49,
@@ -487,7 +487,7 @@
    "category": "Reptiles&Amphibians",
    "species": "Snake",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/snake1"
   },
   {
    "id": 50,
@@ -497,7 +497,7 @@
    "category": "Reptiles&Amphibians",
    "species": "Turtle",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/turtle1"
   },
   {
    "id": 51,
@@ -507,7 +507,7 @@
    "category": "Rodents",
    "species": "Squirrel",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/squirrel2"
   },
   {
    "id": 52,
@@ -517,7 +517,7 @@
    "category": "Rodents",
    "species": "Squirrel",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/squirrel1"
   },
   {
    "id": 53,
@@ -527,7 +527,7 @@
    "category": "Vegatation&Landscape",
    "species": "Wild Flowers",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/flowerscollage1"
   },
   {
    "id": 54,
@@ -537,7 +537,7 @@
    "category": "Vegatation&Landscape",
    "species": "Periwinkle",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/periwinkle1"
   },
   {
    "id": 55,
@@ -547,7 +547,7 @@
    "category": "Vegatation&Landscape",
    "species": "Mushroom",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/mushroom1"
   },
   {
    "id": 56,
@@ -557,7 +557,7 @@
    "category": "Vegatation&Landscape",
    "species": "Lenten Rose",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/lentenrose1"
   },
   {
    "id": 57,
@@ -567,7 +567,7 @@
    "category": "Vegatation&Landscape",
    "species": "Summer Snowflake",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/summersnowflake1"
   },
   {
    "id": 58,
@@ -577,7 +577,7 @@
    "category": "Vegatation&Landscape",
    "species": "Tree",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/tree10"
   },
   {
    "id": 59,
@@ -587,6 +587,28 @@
    "category": "Vegatation&Landscape",
    "species": "Shamrocks",
    "price": 8.00,
-   "productUrl": "#"
+   "productUrl": "https://swycs.llc/products/p/shamrocks1"
+  },
+   {
+   "id": 60,
+   "title": "Cardinal Flying 12",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/3619a252-e196-4dea-9a98-02abd713600b/cardinal+flying+12+with+watermark.jpg?format=1000w",
+   "description": "",
+   "category": "Birds",
+   "species": "Cardinal",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/cardinalflying12"
+  },
+     {
+   "id": 61,
+   "title": "Chickadee 1",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/3fd8aed6-95e4-4cdd-830b-b6298829ebc6/Chickadee+1+with+watermark.jpg?format=1000w",
+   "description": "",
+   "category": "Birds",
+   "species": "Chickadee",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/chickadee1"
   }
+  
+  
 ] 
