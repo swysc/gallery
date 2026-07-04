@@ -407,14 +407,14 @@
    "category": "Birds",
    "species": "Crane Fly",
    "price": 8.00,
-   "productUrl": "https://swycs.llc/products/p/cranefly30
+   "productUrl": "https://swycs.llc/products/p/cranefly30"
   },
   {
    "id": 42,
    "title": "Earth Worm 1",
    "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/a00d0b8e-48f6-4700-97cf-24dee41bff41/Earth+worm+shadow+box+with+watermark.JPG?format=1000w",
    "description": "",
-   "category": "Worms, Catepillars & more",
+   "category": "Worms, Catepillars, snails & more",
    "species": "Earth Worm",
    "price": 8.00,
    "productUrl": "https://swycs.llc/products/p/earthworm1"
@@ -424,7 +424,7 @@
    "title": "Earth Worm 2",
    "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/ee2ab1f7-77e4-4202-8747-e825b298fa9c/Earthworm+whirl+and+pinch+with+watermark.JPG?format=1500w",
    "description": "",
-   "category": "Worms, Catepillars & more",
+   "category": "Worms, Catepillars, snails & more",
    "species": "Earth Worm",
    "price": 8.00,
    "productUrl": "https://swycs.llc/products/p/earthworm2"
@@ -589,7 +589,7 @@
    "price": 8.00,
    "productUrl": "https://swycs.llc/products/p/shamrocks1"
   },
-   {
+  {
    "id": 60,
    "title": "Cardinal Flying 12",
    "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/3619a252-e196-4dea-9a98-02abd713600b/cardinal+flying+12+with+watermark.jpg?format=1000w",
@@ -599,7 +599,7 @@
    "price": 8.00,
    "productUrl": "https://swycs.llc/products/p/cardinalflying12"
   },
-     {
+  {
    "id": 61,
    "title": "Chickadee 1",
    "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/3fd8aed6-95e4-4cdd-830b-b6298829ebc6/Chickadee+1+with+watermark.jpg?format=1000w",
@@ -608,7 +608,59 @@
    "species": "Chickadee",
    "price": 8.00,
    "productUrl": "https://swycs.llc/products/p/chickadee1"
-  }
+  },
+  {
+   "id": 62,
+   "title": "Mikey 1",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/296f8b85-8e23-4bff-aae7-158c330b187f/Mikey+1+with+watermark.JPG?format=1000w",
+   "description": "",
+   "category": "Michaelangelo & friends",
+   "species": "Cat",
+   "price": 8.00,
+   "productUrl": ""
+  },
+  {
+   "id": 63,
+   "title": "Mikey 2",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/d9d5e47f-df9a-478e-a6e1-219bf87a4b82/Mikey+2+with+watermark.jpg?format=2500w",
+   "description": "",
+   "category": "Michaelangelo & friends",
+   "species": "Cat",
+   "price": 8.00,
+   "productUrl": ""
+  },
+  {
+   "id": 64,
+   "title": "Piggy 1",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/43c8cf9d-4d5b-43ca-b89a-68d4e9156af5/Piggy+1+with+watermark.JPG?format=2500w",
+   "description": "",
+   "category": "Medium Mammals",
+   "species": "Pig",
+   "price": 8.00,
+   "productUrl": ""
+  },
+  {
+   "id": 65,
+   "title": "Snail 2",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/cac6e1ef-0b22-4d58-a7c4-c8337c613586/Snail+2+with+watermark.jpg?format=2500w",
+   "description": "",
+   "category": "Worms, Catepillars, snails & more",
+   "species": "Snail",
+   "price": 8.00,
+   "productUrl": ""
+  },
+  {
+   "id": 66,
+   "title": "Snail 1",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/44bee09c-44c3-41dd-98d0-6da24a613683/Snail+1+with+watermark.JPG?format=2500w,
+   "description": "",
+   "category": "Worms, Catepillars, snails & more",
+   "species": "Snail",
+   "price": 8.00,
+   "productUrl": ""
+  },
+ 
+ 
   
   
 ] 
