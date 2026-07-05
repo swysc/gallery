@@ -668,5 +668,35 @@
    "species": "Witetail Deer",
    "price": 8.00,
    "productUrl": "https://swycs.llc/products/p/whitetaildeer47"
-  }
+  },
+  {
+   "id": 68,
+   "title": "Whitetail Deer 48",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/5055c744-d4f0-4a5e-964b-f8ac5dbd2bf2/Whitetail+Deer+48+with+watermark.JPG?format=1500w",
+   "description": "",
+   "category": "Medium Mammals",
+   "species": "Whitetail Deer",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/whitetaildeer48"
+  },
+  {
+   "id": 69,
+   "title": "Whitetail Deer 49",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/f7d158c3-379c-4f4c-ad96-1a03d1eaa5b0/Whitetail+Deer+49+with+watermark.JPG?format=750w",
+   "description": "",
+   "category": "Medium Mammals",
+   "species": "Witetail Deer",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/whitetaildeer49"
+  },
+  {
+   "id": 70,
+   "title": "Whitetail Deer 50",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/5cfea5cb-a840-40fa-ab34-819723654715/Whitetail+Deer+50+with+watermark.JPG?format=1500w",
+   "description": "",
+   "category": "Medium Mammals",
+   "species": "Witetail Deer",
+   "price": 8.00,
+   "productUrl": "hhttps://swycs.llc/products/p/whitetail50"
+  } 
 ] 
