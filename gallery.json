@@ -617,7 +617,7 @@
    "category": "Michaelangelo & friends",
    "species": "Cat",
    "price": 8.00,
-   "productUrl": ""
+   "productUrl": "https://swycs.llc/products/p/mikey1"
   },
   {
    "id": 63,
@@ -627,7 +627,7 @@
    "category": "Michaelangelo & friends",
    "species": "Cat",
    "price": 8.00,
-   "productUrl": ""
+   "productUrl": "https://swycs.llc/products/p/mikey2"
   },
   {
    "id": 64,
@@ -637,7 +637,7 @@
    "category": "Medium Mammals",
    "species": "Pig",
    "price": 8.00,
-   "productUrl": ""
+   "productUrl": "https://swycs.llc/products/p/piggy1"
   },
   {
    "id": 65,
@@ -647,7 +647,7 @@
    "category": "Worms, Catepillars, snails & more",
    "species": "Snail",
    "price": 8.00,
-   "productUrl": ""
+   "productUrl": "https://swycs.llc/products/p/snail2"
   },
   {
    "id": 66,
@@ -657,6 +657,16 @@
    "category": "Worms, Catepillars, snails & more",
    "species": "Snail",
    "price": 8.00,
-   "productUrl": ""
+   "productUrl": "https://swycs.llc/products/p/snail1"
+  },
+  {
+   "id": 67,
+   "title": "Whitetail Deer 47",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/8e06f8d6-13ef-4f22-91ea-a47ef24991e2/Whitetail+deer+with+watermark+47.jpg?format=1000w",
+   "description": "",
+   "category": "Medium Mammals",
+   "species": "Witetail Deer",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/whitetaildeer47"
   }
 ] 
