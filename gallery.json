@@ -716,5 +716,23 @@
    "species": "Whitetail Deer",
    "price": 8.00,
    "productUrl": "https://swycs.llc/products/p/whitetaildeer21"
+  },
+  {
+   "id": 73,
+   "title": "Bumblebee J1",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/d63ead97-d13c-4318-868f-b41f2abcbaf6/Bumblebee+J1+with+watermark.jpg?format=750w",
+   "category": "Medium Mammals",
+   "species": "Insects, Bugs & more",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/bumblebeej1"
+  },
+  {
+   "id": 74,
+   "title": "Bumblebee J2",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/be6a45d0-04bf-43d1-996f-e061ec9e084c/Bumblebee+J2+with+watermark.jpg?format=750w",
+   "category": "Medium Mammals",
+   "species": "Insects, Bugs & more",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/bumblebeej2"
   }  
 ] 
