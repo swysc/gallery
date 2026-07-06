@@ -734,5 +734,41 @@
    "species": "Bumblebee",
    "price": 8.00,
    "productUrl": "https://swycs.llc/products/p/bumblebeej2"
+  },
+  {
+   "id": 75,
+   "title": "Nuthatch 1",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/a49c9413-0cc8-4b30-b7bc-fe40ea7a6540/Nuthatch+1+with+watermark.JPG?format=1500w",
+   "category": "Birds",
+   "species": "Nuthatch",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/nuthatch1"
+  },
+  {
+   "id": 76,
+   "title": "Nuthatch 2",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/3e2c565e-a2bd-41d5-a2e6-1c3054bc29a7/Nuthatch+2+with+watermark.JPG?format=1500w",
+   "category": "Birds",
+   "species": "Nuthatch",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/nuthatch2"
+  },
+  {
+   "id": 77,
+   "title": "Nuthatch 3",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/f0f2ba28-0668-4887-bc51-fbdc9d262d55/Nuthatch+3+with+watermark.JPG?format=1500w",
+   "category": "Birds",
+   "species": "Nuthatch",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/nuthatch3"
+  },
+  {
+   "id": 78,
+   "title": "Nuthatch 4",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/035663bc-4042-44d4-acf6-3f548be6fdb0/Nuthatch+4+with+watermark.JPG?format=2500w",
+   "category": "Birds",
+   "species": "Nuthatch",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/nuthatch4"
   }  
 ] 
