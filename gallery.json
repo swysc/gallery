@@ -770,5 +770,85 @@
    "species": "Nuthatch",
    "price": 8.00,
    "productUrl": "https://swycs.llc/products/p/nuthatch4"
-  }  
+  },
+  {
+   "id": 79,
+   "title": "Lizard 1",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/2a370148-d449-4e4d-b76f-977b39c47810/Lizard+1+with+watermarks.jpg?format=1500w",
+   "description": "",
+   "category": "Reptiles&Amphibians",
+   "species": "Lizard",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/lizard1"
+  },
+  {
+   "id": 80,
+   "title": "Lizard 2",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/09548479-b736-40f0-a12a-8b24d03e9e6b/Lizard+2+with+watermark.jpg?format=2500w",
+   "description": "",
+   "category": "Reptiles&Amphibians",
+   "species": "Lizard",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/lizard2"
+  },
+  {
+   "id": 81,
+   "title": "Lizard 3",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/48edd110-3266-41ef-a7c2-ca28976c26cf/Lizard+3+with+watermark.JPG?format=1000w",
+   "description": "",
+   "category": "Reptiles&Amphibians",
+   "species": "Lizard",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/lizard3"
+  },
+  {
+   "id": 82,
+   "title": "Lizard 4",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/75a6e56a-277c-4199-b9c5-f0c4bed3f0de/Lizard+4+with+watermark.JPG?format=1000w",
+   "description": "",
+   "category": "Reptiles&Amphibians",
+   "species": "Lizard",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/lizard4"
+  },
+  {
+   "id": 83,
+   "title": "Lizard 5",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/7461a75f-8ce6-4d23-9792-b76243b80fbb/Lizard+5+with+watermarks.JPG?format=2500w",
+   "description": "",
+   "category": "Reptiles&Amphibians",
+   "species": "Lizard",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/lizard5"
+  },
+  {
+   "id": 84,
+   "title": "Lizard 6",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/fc4e1458-8299-4bb8-bad9-4a4692a2a75e/Lizard+6+with+watermark.JPG?format=1500w",
+   "description": "",
+   "category": "Reptiles&Amphibians",
+   "species": "Lizard",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/lizard6"
+  },
+  {
+   "id": 85,
+   "title": "Blue Heron 15",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/c83c5b38-1ff6-4ebd-b708-29b6a49b2e6e/Blue+Heron+15+with+watermark.JPG?format=1000w",
+   "description": "",
+   "category": "Birds",
+   "species": "Blue Heron",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/blueheron15"
+  },
+  {
+   "id": 86,
+   "title": "Blue Heron 16",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/5beb5db9-f92b-4319-a111-d54d6aac0611/Blue+Heron+16+with+watermark.JPG?format=1500w",
+   "description": "",
+   "category": "Birds",
+   "species": "Blue Heron",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/blueheron16"
+  }
 ] 
