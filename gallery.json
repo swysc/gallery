@@ -211,11 +211,11 @@
   },
   {
    "id": 22,
-   "title": "Cardinal 2A",
-   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/be40cc19-b42c-4753-96c4-e84143b74f2d/Cardinal+Lady+with+watermark.jpg?format=1500w",
+   "title": "Ant 1",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/8c32e529-ed9e-4b39-9e66-4fd88653005a/Ant+1+with+watermark.JPG?format=1500w",
    "description": "",
-   "category": "Birds",
-   "species": "Cardinal",
+   "category": "Insects, Bugs & more",
+   "species": "Ant",
    "price": 8.00,
    "productUrl": "https://swycs.llc/products/p/cardinal2a"
   },
@@ -860,5 +860,243 @@
    "species": "Blue Heron",
    "price": 8.00,
    "productUrl": "https://swycs.llc/products/p/blueheron16"
-  }
+  },
+  {
+   "id": 88,
+   "title": "Blue Jay 3",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/fe1a3895-acd8-4161-aa6b-4adbff8eba55/Blue+Jay+3+with+watermark.JPG?format=1000w",
+   "description": "",
+   "category": "Birds",
+   "species": "Blue Jay",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/bluejay3"
+  },
+  {
+   "id": 89,
+   "title": "Blue Jay 4",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/7a08dedf-16c7-4609-8f5c-a6040f3d3c59/Blue+jay+4+with+watermark.JPG?format=1500w",
+   "description": "",
+   "category": "Birds",
+   "species": "Blue Jay",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/bluejay4"
+  },
+  {
+   "id": 90,
+   "title": "Carolina Wren 1",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/1439f391-b600-4c5e-890f-180aefb58c3f/Carolina+Wren+with+watermark+1.JPG?format=1500w",
+   "description": "",
+   "category": "Birds",
+   "species": "Carolina Wren",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/carolinawren1"
+  },
+  {
+   "id": 91,
+   "title": "Click Bug 1",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/1439f391-b600-4c5e-890f-180aefb58c3f/Carolina+Wren+with+watermark+1.JPG?format=1500w",
+   "description": "",
+   "category": "Insects, Bugs & more",
+   "species": "Click Bug",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/clickbug1"
+  },
+  {
+   "id": 92,
+   "title": "Click Bug 2",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/80cbd1d2-5146-4dbe-a10a-40749ad533b4/Click+bug+2+with+watermark.JPG?format=1000w",
+   "description": "",
+   "category": "Insects, Bugs & more",
+   "species": "Click Bug",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/clickbug2"
+  },
+  {
+   "id": 93,
+   "title": "Whitetail Deer 1",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/8bb4fddb-0e20-4587-874d-e125cc7d4ea7/Deer+1+with+watermark.JPG?format=1500w",
+   "description": "",
+   "category": "Medium Mammals",
+   "species": "Whitetail Deer",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/whitetaildeer49"
+  },
+  {
+   "id": 94,
+   "title": "Eastern Bluebird 1a",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/5fcff80c-d43b-43ab-92e8-9c0d301be3d7/Eastern+Bluebird+1+with+watermark.JPG?format=1000w",
+   "description": "",
+   "category": "Birds",
+   "species": "Eastern Bluebird",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/easternbluebird1a"
+  },
+  {
+   "id": 95,
+   "title": "Frog 1",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/af8b30a7-8d94-4537-a1f6-7861cb834a33/Frog+1+with+watermark.JPG?format=1000w",
+   "description": "",
+   "category": "Reptiles&Amphibians",
+   "species": "Frog",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/frog1"
+  },
+  {
+   "id": 96,
+   "title": "Frog 2",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/9339f96f-9f93-4372-947a-86445c2553f7/Frog+2+with+watermark.JPG?format=1000w",
+   "description": "",
+   "category": "Reptiles&Amphibians",
+   "species": "Frog",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/frog2"
+  },
+  {
+   "id": 97,
+   "title": "Frog 5",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/a98c4c99-e5ff-4cad-aa29-927326ef0d72/Frog+5+with+watermark.JPG?format=1000w",
+   "description": "",
+   "category": "Reptiles&Amphibians",
+   "species": "Frog",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/frog5"
+  },
+  {
+   "id": 98,
+   "title": "Grass 1",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/30d98bca-21d7-4e71-85bf-2ca15043326d/Grass+1+with+watermark.JPG?format=1000w",
+   "category": "Vegatation&Landscape",
+   "species": "Grass",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/grass1"
+  },
+  {
+   "id": 99,
+   "title": "Hawk 1",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/370bc4b1-2492-4b53-9906-627a80ce7f9f/Hawk+1+with+watermark.JPG?format=1000w",
+   "description": "",
+   "category": "Birds",
+   "species": "Hawk",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/hawk1"
+  },
+  {
+   "id": 100,
+   "title": "Nuthatch 5",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/67285184-cdd3-4586-8a9e-c0471cc517e5/Nuthatch+5+with+watermark.JPG?format=1500w",
+   "category": "Birds",
+   "species": "Nuthatch",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/nuthatch5"
+  },
+  {
+   "id": 101,
+   "title": "Nuthatch 6",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/49e91d6e-40b3-418a-a743-2c24a888e071/Nuthatch+6+with+watermark.JPG?format=1000w",
+   "category": "Birds",
+   "species": "Nuthatch",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/nuthatch6"
+  },
+  {
+   "id": 102,
+   "title": "Nuthatch 7",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/fc208e84-8862-4b33-842b-2713c138c13f/Nuthatch+7+with+watermark.JPG?format=1000w",
+   "category": "Birds",
+   "species": "Nuthatch",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/nuthatch7"
+  },
+  {
+   "id": 103,
+   "title": "Osprey 1",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/bd08b587-fe6e-4021-8cc3-c0a508caf7e9/Osprey+1+with+watermark.JPG?format=1500w",
+   "category": "Birds",
+   "species": "Osprey",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/osprey1"
+  },
+  {
+   "id": 104,
+   "title": "Red Bellied Woodpecker 1",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/b19c2dee-e47b-4d4b-b881-5baeecba509f/Red+Bellied+Woodpecker+1+with+watermark.JPG?format=1500w",
+   "category": "Birds",
+   "species": "Red Bellied Woodpecker",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/redbelliedwoodpecker1"
+  },
+  {
+   "id": 105,
+   "title": "Red Bellied Woodpecker 2",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/627c4fa0-4264-4002-846e-ee84033f5d42/Red+Bellied+Woodpecker+with+watermark+2.JPG?format=2500w",
+   "category": "Birds",
+   "species": "https://swycs.llc/products/p/redbelliedwoodpecker2",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/nuthatch4"
+  },
+  {
+   "id": 106,
+   "title": "Robin 2",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/821ec899-e7fd-4369-a530-b0f9d182538b/Robin+2+with+watermark.JPG?format=1500w",
+   "category": "Birds",
+   "species": "Robin",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/robin2"
+  },
+  {
+   "id": 107,
+   "title": "Robin 3",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/7247fd03-d167-4e5a-a470-469c8b964f02/Robin+3+with+watermark.JPG?format=2500w",
+   "category": "Birds",
+   "species": "Robin",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/robin3"
+  },
+  {
+   "id": 108,
+   "title": "Scarab Beetle 1",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/68b78b8e-a855-4977-b7b0-f1cfaccb8e0c/Scarab+Beetle+1+with+watermark.JPG?format=1500w",
+   "description": "",
+   "category": "Insects, Bugs & more",
+   "species": "Scarab Beetle",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/scarabbeetle1"
+  },
+  {
+   "id": 109,
+   "title": "Squirrel 3",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/602d01bb-25e9-4d9f-b866-51aff17b6d46/Squirrel+3+with+watermark.JPG?format=1500w",
+   "description": "",
+   "category": "Insects, Bugs & more",
+   "species": "Squirrel",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/squirrel3"
+  },
+  {
+   "id": 110,
+   "title": "Tree 1",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/cd74963f-4492-448d-ae52-87aa57c46d3f/Tree+1+with+watermark.JPG?format=2500w",
+   "category": "Vegatation&Landscape",
+   "species": "Tree",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/tree1"
+  },
+  {
+   "id": 111,
+   "title": "Tufted Titmouse 3",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/6bd00861-ed5c-41e4-9852-7a89a6af8b71/Tufted+Titemouse+3+with+watermark.JPG?format=2500w",
+   "category": "Birds",
+   "species": "Tufted Titmouse",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/tuftedtitmouse3"
+  },
+  {
+   "id": 112,
+   "title": "Tufted Titmouse 4",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/c563873d-e9c5-4e09-8a1b-aee65d6e77c8/Tufted+Titmouse+4+with+watermark.JPG?format=2500w",
+   "category": "Birds",
+   "species": "Tufted Titmouse",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/tuftedtitmouse4"
+  } 
 ] 
