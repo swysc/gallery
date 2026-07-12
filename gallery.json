@@ -1098,5 +1098,140 @@
    "species": "Tufted Titmouse",
    "price": 8.00,
    "productUrl": "https://swycs.llc/products/p/tuftedtitmouse4"
-  } 
+  },
+  {
+   "id": 113,
+   "title": "Mikey 3",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/cc1cf7a1-54cd-4224-9dde-492e080c5fce/Mikey+3+with+watermark.JPG?format=750w",
+   "description": "",
+   "category": "Michaelangelo & friends",
+   "species": "Cat",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/mikey3"
+  },
+  {
+   "id": 114,
+   "title": "Mikey 4",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/dffe7536-3604-42ac-9c6c-e01b1b27decb/Mikey+4+with+watermark.JPG?format=1000w",
+   "description": "",
+   "category": "Michaelangelo & friends",
+   "species": "Cat",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/mikey4"
+  },
+  {
+   "id": 115,
+   "title": "Mikey 5",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/6b66af39-3959-4b8c-9dae-a647478c3022/Mikey+5+with+watermark.JPG?format=1000w",
+   "description": "",
+   "category": "Michaelangelo & friends",
+   "species": "Cat",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/mikey5"
+  },
+  {
+   "id": 116,
+   "title": "Mikey 6",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/349df918-88d8-4d90-8257-af07bcaf13bc/Mikey+6+with+watermark.JPG?format=1000w",
+   "description": "",
+   "category": "Michaelangelo & friends",
+   "species": "Cat",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/mikey6"
+  },
+  {
+   "id": 117,
+   "title": "Mikey 7",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/95111457-1866-48b8-a59e-461da9ab9de8/Mikey+7+with+watermark.JPG?format=1500w",
+   "description": "",
+   "category": "Michaelangelo & friends",
+   "species": "Cat",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/mikey7"
+  },
+  {
+   "id": 118,
+   "title": "Mikey 8",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/80faa536-f507-4841-ac35-cd61b812b69a/Mikey+8+with+watermark.JPG?format=1000w",
+   "description": "",
+   "category": "Michaelangelo & friends",
+   "species": "Cat",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/mikey8"
+  },
+  {
+   "id": 119,
+   "title": "Mikey 9",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/80917e48-d02d-4c54-9c74-c1cab96b1714/Mikey+9+with+watermark.JPG?format=1000w",
+   "description": "",
+   "category": "Michaelangelo & friends",
+   "species": "Cat",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/mikey9"
+  },
+  {
+   "id": 120,
+   "title": "Mikey 10",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/9641e9bc-0542-47a6-97cd-8fde4043ea5c/Mikey+10+with+watermark.JPG?format=1000w",
+   "description": "",
+   "category": "Michaelangelo & friends",
+   "species": "Cat",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/mikey10"
+  },
+  {
+   "id": 121,
+   "title": "Mushroom 2",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/5e974151-04e0-4b43-ae18-c7d0051f1935/Mushroom+2+with+watermark.JPG?format=1000w",
+   "category": "Vegatation&Landscape",
+   "species": "Mushroom",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/mushroom2"
+  },
+  {
+   "id": 122,
+   "title": "Tree 2",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/092126ff-ebd8-475b-a5c7-be4d0d8b9e17/Tree+2+with+watermark.JPG?format=1000w",
+   "category": "Vegatation&Landscape",
+   "species": "Tree",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/tree2"
+  },
+  {
+   "id": 123,
+   "title": "Red Bellied Woodpecker 3",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/2b88fd39-ec73-4491-9b6e-f74976cdc455/Red+bellied+woodpecker+3+with+watermark.JPG?format=1000w",
+   "category": "Birds",
+   "species": "Tufted Titmouse",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/redbelliedwoodpecker3"
+  },
+  {
+   "id": 124,
+   "title": "Red Bellied Woodpecker 4",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/e9450873-3e8d-4a13-aec4-735e61499db9/Red+bellied+woodpecker+4+with+watermark.JPG?format=1000w",
+   "category": "Birds",
+   "species": "Tufted Titmouse",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/redbellied4"
+  },
+  {
+   "id": 125,
+   "title": "Stream 1",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/a280db50-b790-4b10-bc4d-25ecb5162b37/Stream+1a+with+watermark.JPG?format=1500w",
+   "category": "Vegatation&Landscape",
+   "species": "Stream",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/stream1a"
+  },
+  {
+   "id": 126,
+   "title": "Cardinal 1",
+   "image": "https://images.squarespace-cdn.com/content/v1/6990969c31d3f316ea46b85b/4e17d79b-0711-4097-9168-42bfd2e171f1/Red+Cardinal+1+with+watermark.JPG?format=1000w",
+   "category": "Birds",
+   "species": "Tufted Titmouse",
+   "price": 8.00,
+   "productUrl": "https://swycs.llc/products/p/cardinal1"
+  },
+  
 ] 
